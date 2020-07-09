@@ -9,7 +9,7 @@
 
 Meu nome é Osmir Mariano, sou Cientista da Computação.
 
-- :office_worker: Trabalhando como estagiário Desenvolvedor na **Maqplan**
+- :office_worker: Job **Maqplan**
 - :blue_heart: Techs: Node.js, Angular, Docker, TypeScript e mais!
 
 > :octocat: [osmirmariano.com](https://osmirmariano.com)
