@@ -7,7 +7,7 @@
 
 ## Olá 👋
 
-Meu nome é Osmir Mariano, Cientista da computação, sendo desenvolvedor fulstack.
+Meu nome é Osmir Mariano, sou Cientista da Computação.
 
 - :office_worker: Trabalhando como estagiário Desenvolvedor na **Maqplan**
 - :blue_heart: Techs: Node.js, Angular, Docker, TypeScript e mais!
