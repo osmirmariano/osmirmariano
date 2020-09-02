@@ -7,7 +7,7 @@
 
 ## Olá 👋
 
-Sou Osmir Mariano Cientista da Computação. Programador desde de 2017 com experiências em diversas áreas. Veja abaixa minhas skills
+Sou Osmir Mariano Cientista da Computação. Programador desde de 2017 com experiências em diversas áreas. Veja abaixo minhas skills
 
 - :office_worker: Job **Maqplan**
 - :blue_heart: Techs: Node.js, Angular, TypeScript, Javascript, React, etc
