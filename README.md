@@ -5,9 +5,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/osmirmariano)](https://t.me/osmirmariano)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osmirmarianocc@gmail.com)](mailto:osmirmarianocc@gmail.com)
 
-## Olá 👋
+## Hi 👋
 
-Sou Osmir Mariano Cientista da Computação. Programador desde de 2017 com experiências em diversas áreas. Veja abaixo minhas skills
+Programmer since 2017 with experiences in several areas. See my skills below
 
 - :office_worker: Job **Cadmus**
 - :blue_heart: Techs: Node.js, Angular, TypeScript, Javascript e React
