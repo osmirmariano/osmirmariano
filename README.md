@@ -12,7 +12,7 @@ Sou Osmir Mariano Cientista da Computação. Programador desde de 2017 com exper
 - :office_worker: Job **Cadmus**
 - :blue_heart: Techs: Node.js, Angular, TypeScript, Javascript e React
 - 👨‍🎓 Bachelor Degree in Computer Science at Federal University of Tocantins
-- 👨‍ 🎓Specialist in Decision Support System at Federal University of Tocantins
+- 👨‍🎓 Specialist in Decision Support System at Federal University of Tocantins
 
 > :octocat: [osmirmariano.com](https://osmirmariano.com)
 
