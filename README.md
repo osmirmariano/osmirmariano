@@ -9,7 +9,7 @@
 
 Programmer since 2017 with experiences in several areas. See my skills below
 
-- :office_worker: Job **Cadmus**
+- :office_worker: Job **Grupo DPSP and Raro Labs**
 - :blue_heart: Techs: Node.js, Angular, TypeScript, Javascript e React
 - 👨‍🎓 Bachelor Degree in Computer Science at Federal University of Tocantins
 - 👨‍🎓 Specialist in Decision Support System at Federal University of Tocantins
