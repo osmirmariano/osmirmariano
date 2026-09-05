@@ -12,7 +12,7 @@ Nodejs, Angular and React.
 
 - 📍 Based in **Brasília**
 - 🏢 Working at **Grupo DPSP**
-- 🌐 [Website](https://www.linkedin.com/in/osmirmariano)
+- 🌐 [LinkdIn](https://www.linkedin.com/in/osmirmariano)
 - 👥 **35** followers · **33** following
 
 ## Proof at a glance
@@ -27,11 +27,10 @@ Nodejs, Angular and React.
 
 ## Selected work
 
-- **[generate-api-node](https://github.com/osmirmariano/generate-api-node)** — Biblioteca para gerar API para nodejs com mongodb · ⭐ 3
 - **[ofx-convert](https://github.com/osmirmariano/ofx-convert)** — Biblioteca para converter arquivo ofx para json e json para ofx para todos os formatos dos bancos. · ⭐ 20
-- **[learning](https://github.com/osmirmariano/learning)** — Aplicação para meu trabalho de conclusão de curso da pós-graduação · ⭐ 0
-- **[biologiaComputacional-LERARQ](https://github.com/osmirmariano/biologiaComputacional-LERARQ)** — Implementação de um programa para ler um arquivo XML E obter o Score e Evalue · ⭐ 0
+- **[generate-api-node](https://github.com/osmirmariano/generate-api-node)** — Biblioteca para gerar API para nodejs com mongodb · ⭐ 3
 - **[doc-pdf-image](https://github.com/osmirmariano/doc-pdf-image)** — Biblioteca para converter arquivos de doc, docx para pdf e imagem · ⭐ 1
+- **[learning](https://github.com/osmirmariano/learning)** — Aplicação para meu trabalho de conclusão de curso da pós-graduação · ⭐ 0
 - **[eml-pdf-image](https://github.com/osmirmariano/eml-pdf-image)** — Biblioteca para conversão de arquivos .eml, pdf e imagem · ⭐ 0
 
 ## Let’s connect
